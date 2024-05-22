@@ -1,6 +1,6 @@
 # PixieCases
 
-![PixieCases Thumbnail](./thumbnail.png)
+![Project Image](https://github.com/soulaimane0/pixie-cases/blob/main/public/thumbnail.png)
 
 ## Overview
 
